@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms-consumer/ms-consumer.iml" filepath="$PROJECT_DIR$/ms-consumer/ms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-discover/ms-discover.iml" filepath="$PROJECT_DIR$/ms-discover/ms-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-provider/ms-provider.iml" filepath="$PROJECT_DIR$/ms-provider/ms-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-root/ms-root.iml" filepath="$PROJECT_DIR$/ms-root/ms-root.iml" />
+    </modules>
+  </component>
+</project>
