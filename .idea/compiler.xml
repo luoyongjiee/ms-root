@@ -22,12 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="ms-config" />
         <module name="ms-consumer" />
         <module name="ms-discover" />
         <module name="ms-provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ms-config" target="1.6" />
       <module name="ms-consumer" target="1.6" />
       <module name="ms-discover" target="1.6" />
       <module name="ms-provider" target="1.6" />

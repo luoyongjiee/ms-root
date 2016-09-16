@@ -17,7 +17,7 @@
         <module>../ms-consumer</module>
         <module>../ms-provider</module>
         <module>../ms-discover</module>
-
+        <module>../ms-config</module>
     </modules>
 
 
