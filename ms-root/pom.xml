@@ -10,11 +10,11 @@
     <groupId>com.ms</groupId>
     <artifactId>ms-root</artifactId>
     <packaging>pom</packaging>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <scm>
         <connection>scm:git:https://github.com/luoyongjiee/</connection>
         <developerConnection>scm:git:https://github.com/luoyongjiee/</developerConnection>
-        <tag>ms-root-1.2</tag>
+        <tag>v.13</tag>
     </scm>
     <modules>
         <module>../ms-consumer</module>
